@@ -4,8 +4,6 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-
 public class Update {
     
     public void UpdateData(String id , String firstname , String lastname , String email ,
